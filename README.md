@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/vampire-survivors-hack-logo.png" alt="Vampire Survivors Hack Logo" width="220"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=VAMPIRE+SURVIVORS+HACK;OP+INFINITE+HEALTH+2026;GODMODE+UNLIMITED+GOLD;NO+COOLDOWN+XP+MULTIPLIER;ITEM+SPAWNER;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
